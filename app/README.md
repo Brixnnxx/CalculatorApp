@@ -17,8 +17,6 @@ A responsive, feature-rich Android calculator application built with Kotlin and 
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 | Decimal Value | Sign Change | Error Message |
 |:---:|:---:|:---:|
 | ![Decimal Value](screenshots/DecimalValue.png) | ![Sign Change](screenshots/SignChange.png) | ![Error Message](screenshots/ErrorMessage.png) |
@@ -36,5 +34,4 @@ Watch the app walkthrough demonstrating standard functionality and enhancements:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-   cd YOUR_REPOSITORY
+   git clone [https://github.com/Brixnnxx/CalculatorApp.git
